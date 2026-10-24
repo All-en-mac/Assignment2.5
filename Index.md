@@ -1,19 +1,17 @@
 Step 1: index.html Source Code
-Create your index.html file and paste the following clean, semantic HTML code into it:
-
 HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personal Portfolio - Alex Johnson</title>
+    <title>Personal Portfolio - Allen Macanige</title>
 </head>
 <body>
 
     <!-- Header Section -->
     <header>
-        <h1>Alex Johnson</h1>
+        <h1>Allen Macanige</h1>
         <p>Aspiring Full-Stack Web Developer & Technology Enthusiast</p>
     </header>
 
@@ -30,10 +28,10 @@ HTML
     <!-- Education Section -->
     <section>
         <h2>Education</h2>
-        <h3>Bachelor of Science in Computer Science</h3>
+        <h3>Bachelor of Technology in Computer Science</h3>
         <p>
-            <strong>Institution:</strong> Tech State University <br>
-            <strong>Duration:</strong> 2022 – Expected May 2026
+            <strong>Institution:</strong> Invertis University<br>
+            <strong>Duration:</strong> 2026 – Expected May 2030
         </p>
     </section>
 
@@ -69,8 +67,8 @@ HTML
         <h2>Contact Information</h2>
         <p>Feel free to reach out to me via any of the channels below:</p>
         <ul>
-            <li><strong>Email:</strong> <a href="mailto:alex.johnson@example.com">alex.johnson@example.com</a></li>
-            <li><strong>GitHub:</strong> <a href="https://github.com" target="_blank">github.com/alexjohnson</a></li>
+            <li><strong>Email:</strong> <a href="mailto:allenmacanige@example.com">allenmacanige@example.com</a></li>
+            <li><strong>GitHub:</strong> <a href="https://github.com" target="_blank">github.com/allenmacanige</a></li>
         </ul>
     </section>
 
@@ -91,9 +89,3 @@ git commit -m "feat: complete HTML foundations mini-project index.html"
 
 # Push the code to your remote GitHub repository
 git push origin main
-Submission Checklist
-index.html file: Created and saved with all required sections and semantic tags.
-
-Local Verification: Opened in the browser via Live Server to ensure all headings, lists, and links render correctly.
-
-GitHub Link: Submit your public GitHub repository URL (e.g., [https://github.com/YOUR-USERNAME/web-development-practice](https://github.com/YOUR-USERNAME/web-development-practice)) to complete your mini-project assignment
